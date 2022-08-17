@@ -60,7 +60,8 @@ const Fruits = (props: { data: LoaderData }) => {
 
                   <div className='col-span-full my-4'>
                     <Link
-                      className='block p-4 capitalize bg-slate-500 w-1/2 mx-auto rounded-md text-slate-200 tracking-widest'
+                      prefetch='intent'
+                      className='block p-4 capitalize bg-slate-500 w-1/2 mx-auto rounded-md text-slate-300 tracking-widest'
                       to={`/${slugify(el?.name)}`}
                     >
                       learn more
