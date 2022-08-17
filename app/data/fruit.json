@@ -1,0 +1,369 @@
+[
+  {
+    "genus": "Malus",
+    "name": "Apple",
+    "id": 6,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "description": "Apples are among the world’s most popular fruits.They grow on the apple tree (Malus domestica), originally from Central Asia\n.Apples are high in fiber, vitamin C, and various antioxidants. They are also very filling, considering their low calorie count. Studies show that eating apples can have multiple benefits for your health (1, 2Trusted Source, 3Trusted Source, 4Trusted Source)\n.Usually eaten raw, apples can also be used in various recipes, juices, and drinks. Various types abound, with a variety of colors and sizes.",
+    "nutritions": {
+      "carbohydrates": "11.4,",
+      "Calories": "52",
+      "Water": "86%",
+      "Protein": "0.3 grams",
+      "Carbs": "13.8 grams",
+      "Sugar": "10.4 grams",
+      "Fiber": "2.4 grams",
+      "Fat": "0.2 grams"
+    },
+    "bg_img": "/images/apple/banner.jpg",
+    "images": [
+      "/images/apple/apple-1.jpg",
+      "/images/apple/apple-2.jpg",
+      "/images/apple/apple-3.jpg",
+      "/images/apple/apple-4.webp"
+    ],
+
+    "summary": [
+      "Apples are mainly made up of carbs and water. They also contain fiber, which moderates blood sugar levels and promotes gut health.",
+      "Apples are not particularly rich in vitamins and minerals. However, they contain decent amounts of both vitamin C and potassium.",
+      "Apples are a good source of several antioxidants, including quercetin, catechin, and chlorogenic acid. These plant compounds are responsible for many of apples’ benefits.",
+      "Apples may compliment a healthy weight loss diet largely due to their high fiber and low calorie counts."
+    ],
+    "Health benefits": {
+      "Blood sugar control and type 2 diabetes": "Some evidence suggests that eating apples can help lower blood sugar levels and protect against diabetes.\n Some of the antioxidants in apples may also slow down your digestion and absorption of sugars .\n In one study in 38,018 women, eating 1 or more apples per day was linked to a 28% lower risk of developing type 2 diabetes.",
+      "Blood cholesterol and heart disease": "Several studies have examined apples’ effects on risk factors for heart disease.\nA hamster study suggested that apples can reduce total cholesterol levels and lead to drastic reductions of 48% in plaque buildup inside the arteries.\nA human study in Finland showed that those who consumed more than 1.9 ounces (54 grams) of apples per day were at a significantly lower risk of developing heart disease.\npecifically, the risk of dying from heart disease was 43% lower in women and 19% in men.",
+      "Cancer": "Many test-tube and animal studies suggest that apple phytonutrients can protect against cancers of the lungs and colon.'\nPotential evidence exists from studies in people as well.\nOne study indicated that those who consumed 1 or more apples per day were at a lower risk of cancer, including a 20% and 18% lower risk of colorectal and breast cancers, respectively."
+    },
+    "The bottom line": "Apples are an incredibly nutritious fruit that offers multiple health benefits.\nThey’re rich in fiber and antioxidants. Eating them is linked to a lower risk of many chronic conditions, including diabetes, heart disease, and cancer.\nApples may also promote weight loss and improve gut and brain health.\nEven though more research is still needed to better understand how apples affect human health, you can’t go wrong with this tasty, versatile, and easily accessible fruit. "
+  },
+
+  {
+    "genus": "Prunus",
+    "name": "Apricot",
+    "id": 35,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "nutritions": {
+      "Calories": "34",
+      "Carbs": "8 grams",
+      "Protein": "1 gram",
+      "Fat": "0.27 grams",
+      "Fiber": "1.5 grams",
+      "Vitamin A": "8% of the Daily Value (DV)",
+      "Vitamin C": "8% of the DV",
+      "Vitamin E": "4% of the DV",
+      "Potassium": "4% of the DV"
+    },
+    "bg_img": "/images/apricot/banner.jpeg",
+    "images": [
+      "/images/apricot/Apricot-1.png",
+      "/images/apricot/Apricot-2.jpg",
+      "/images/apricot/Apricot-3.png",
+      "/images/apricot/Apricot-4.png"
+    ],
+    "description": "Apricots (Prunus armeniaca) are stone fruits also known as Armenian plums.\nRound and yellow, they look like a smaller version of a peach but share the tartness of purple plums.\nThey’re extremely nutritious and have many health benefits, such as improved digestion and eye health.",
+    "nutritions-title": "Here are 9 health and nutrition benefits of apricots.",
+
+    "summary": [
+      "Apricots are low in calories and fat while also an excellent source of vitamins A and C.",
+      "Apricots contain numerous antioxidants, most notably flavonoids. They help protect your body from oxidative stress, which is linked to many chronic diseases.",
+      "Apricots are an excellent source of beta carotene, lutein, zeaxanthin, and vitamins C and E. These nutrients protect your eyes against damage.",
+      "Apricots are naturally high in antioxidants, which guard against environmental damage from sunlight, pollution, and cigarette smoke. These compounds may benefit your skin by lowering your risk of wrinkles and sunburn.",
+      "Apricots are naturally high in water, which is important for staying hydrated. Proper hydration is vital for several aspects of health, including blood pressure and heart rate."
+    ],
+    "Health benefits": {
+      "High in antioxidants": "Apricots are a great source of many antioxidants, including beta carotene and vitamins A, C, and E \nWhat’s more, they’re high in a group of polyphenol antioxidants called flavonoids, which have been shown to protect against illnesses, including diabetes and heart disease.\nThe main flavonoids in apricots are chlorogenic acids, catechins, and quercetin.\nThese compounds work to neutralize free radicals, which are harmful compounds that damage your cells and cause oxidative stress. Oxidative stress is linked to obesity and many chronic diseases, such as heart disease.\nIn one study in 2,375 people, researchers developed a scoring system to measure changes in levels of inflammatory markers.\nThey found that high flavonoid and anthocyanin intakes were associated with a 42% and 73% lower inflammation score, respectively. High flavonoid intake was also tied to a 56% lower oxidative stress score.",
+      "May promote eye health": "Apricots boast multiple compounds that are essential for eye health, including vitamins A and E.\nVitamin A plays a vital role in preventing night blindness, a disorder caused by lack of light pigments in your eyes, while vitamin E is a fat-soluble antioxidant that enters your eyes directly to protect them from free radical damage.\nMeanwhile, beta carotene — which gives apricots their yellow-orange color — serves as a precursor to vitamin A, meaning that your body can convert it into this vitamin.Other important apricot carotenoids include lutein and zeaxanthin. Found in the lenses and retinas of your eyes, they safeguard against oxidative stress.",
+
+      "May protect your liver": "Some data suggests that apricots may help protect your liver from oxidative stress.\nIn two animal studies, rats fed alcohol and apricots had lower levels of liver enzymes and markers of inflammation than rats given alcohol but no apricots.\nThis research suggests that apricots may help prevent liver damage because of their naturally high antioxidant content.\nThat said, it’s hard to know whether this fruit provides the same benefit in humans. More research is necessary."
+    },
+    "The bottom line": "Apricots are a delicious fruit packed with vitamins, fiber, and antioxidants. They have multiple benefits, including improved eye, skin, and gut health.\nFresh or dried, apricots are easy to add to yogurt, salads, and main meals.\nIf you’re used to eating peaches and plums, apricots can be a great way to change up your routine."
+  },
+
+  {
+    "genus": "Musa",
+    "name": "Banana",
+    "id": 1,
+    "family": "Musaceae",
+    "order": "Zingiberales",
+    "nutritions": {
+      "Fat": "0 grams",
+      "Protein": "1 gram",
+      "Carbs": "29 grams",
+      "Fiber": "3 grams",
+      " Vitamin C": "12% of the Daily Value (DV)",
+      "Riboflavin": "7% of the DV",
+      " Folate": "6% of the DV",
+      "Niacin": "5% of the DV",
+      "Copper": "11% of the DV",
+      "Potassium": "10% of the DV",
+      "Magnesium": "8% of the DV"
+    },
+    "bg_img": "/images/banana/banner.png",
+    "images": [
+      "/images/banana/Banana-1.png",
+      "/images/banana/Banana-2.jpg",
+      "/images/banana/Banana-3.png",
+      "/images/banana/Banana-4.jpg"
+    ],
+    "description": "Bananas are among the most important food crops on the planet.\nThey come from a family of plants called Musa that are native to Southeast Asia and grown in many of the warmer areas of the world.\nBananas are a healthy source of fiber, potassium, vitamin B6, vitamin C, and various antioxidants and phytonutrients.\n Many types and sizes exist. Their color usually ranges from green to yellow, but some varieties are red.",
+    "summary": [
+      "Bananas are generally considered healthy. However, people with type 2 diabetes should avoid a high intake of well-ripened bananas.",
+      "Bananas may be beneficial for heart health due to their high levels of potassium and antioxidants. What’s more, their resistant starch and pectins may promote colon health.",
+      "Like other fruits, bananas contain several healthy antioxidants, which are responsible for many of their health benefits. These include dopamine and catechin.",
+      "Bananas contain a number of vitamins and minerals in decent amounts. These include potassium and vitamins B6 and C.",
+      "Bananas are mainly composed of carbs. Unripe bananas may contain decent amounts of resistant starch, which functions like fiber, aiding your gut and promoting healthy blood sugar levels."
+    ],
+    "Health benefits": {
+      "Heart health": "Heart disease is the world’s most common cause of premature death.\nBananas are high in potassium, a mineral that promotes heart health and normal blood pressure. One medium-sized banana contains around 0.4 grams of this mineral.\nAccording to a large analysis of many studies, daily consumption of 1.3–1.4 grams of potassium is linked to a 26% lower risk of heart disease.\nIn addition, bananas contain antioxidant flavonoids also associated with a significant decrease in heart disease risk .",
+      "Digestive health": "Unripe, green bananas contain considerable amounts of resistant starch and pectin, which are types of dietary fiber.\nResistant starch and pectins act as prebiotic nutrients, supporting the growth of beneficial gut bacteria.\nIn your gut, these fibers are fermented by beneficial bacteria that form butyrate, a short-chain fatty acid that promotes gut health.",
+      "May aid weight loss": "No study has directly tested bananas’ effects on weight loss. However, this popular fruit does have several attributes that could make it a weight-loss-friendly food.\nFirst, bananas have relatively few calories. The average banana has just over 100 calories, yet it’s nutritious and filling (1Trusted Source).\nEating more fiber from vegetables and fruits has repeatedly been linked to lower body weight and weight loss (4Trusted Source, 9Trusted Source, 10Trusted Source).\nFurthermore, unripe bananas are packed with resistant starch, so they tend to be filling and reduce your appetite. If you’d like to include unripe bananas in your diet, try using them as you’d use plantains (2Trusted Source, 11Trusted Source)."
+    },
+
+    " The bottom line": "Bananas are among the world’s most commonly consumed fruits.\nPrimarily composed of carbs, they contain decent amounts of several vitamins, minerals, and antioxidants. Potassium, vitamin C, catechin, and resistant starch are among their healthy nutrients.\nBananas may have numerous benefits — including improved heart and digestive health — when consumed regularly as a part of a healthy lifestyle."
+  },
+
+  {
+    "genus": "Rubus",
+    "name": "Blackberry",
+    "id": 64,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "nutritions": {
+      "Vitamin C": "35% of the Reference Daily Intake (RDI)",
+      "Manganese": "32% of the RDI",
+      "Vitamin K1": "25% of the RDI",
+      "Copper": "8% of the RDI",
+      "Folate": "6% of the RDI"
+    },
+    "bg_img": "/images/blackberry/banner.jpg",
+    "images": [
+      "/images/blackberry/Blackberry-1.jpg",
+      "/images/blackberry/Blackberry-2.jpg",
+      "/images/blackberry/Blackberry-3.jpg",
+      "/images/blackberry/Blackberry-4.jpg"
+    ],
+    "description": "The blackberry is a berry made by any of several species in the Rubus genus of the Rosaceae family. The blackberry shrub is called 'bramble' in Britain, but in the western U.S. 'caneberry' is the term is used for both blackberries and raspberries.\nIt is a widespread and well known group of over 375 species which reproduce by apomixis. They are native all over the temperate Northern hemisphere and South America. The blackberry grows to about 3 m in height. It makes an edible black fruit, known by the same name. The plant tolerates poor soil very well.[2]\nThe plant down its strong suckering roots amongst garden hedges and shrubs. It will grow fast, taking over uncultivated spots very quickly. In some parts of the world, such as in Australia, Chile, New Zealand, and the Pacific Northwest of North America, some blackberry species are regarded as weeds. ",
+    "summary": [
+      "Berries are high in antioxidants like anthocyanins, which may protect your cells from free radical damage.",
+      "Berries may improve blood sugar and insulin response when consumed with high-carb foods or included in smoothies.",
+      "Berries contain fiber, which may increase feelings of fullness, as well as reduce appetite and the number of calories your body absorbs from mixed meals.",
+      "Berries are low in calories yet rich in several vitamins and minerals, especially vitamin C and manganese.",
+      "Berries may help reduce inflammation and decrease your risk of heart disease and other health problems.",
+      "Berries have been shown to lower LDL (bad) cholesterol levels and help protect it from becoming oxidized, which may reduce your risk of heart disease.",
+      "Berries contain the antioxidant ellagic acid, which may help decrease wrinkling and other signs of skin aging related to sun exposure."
+    ],
+    "Health benefits": {
+      "Great source of vitamin K": "Vitamin K is the reason why you don’t bleed profusely when you cut yourself: It helps your blood clot. Vitamin K also plays a role in bone metabolism. Vitamin K deficiency may lead to bone thinning and bone fractures. It may cause easy bruising, heavy menstrual bleeding, and blood in the stool or in the urine.\nJust one cup of raw blackberries provides almost 29 microgramsTrusted Source — over one-third of the daily recommended value — of vitamin K.\nIf you take blood thinners, make sure to eat a consistent or reduced amount of foods high in vitamin K like blackberries, green leafy vegetables, soybeans, and fermented dairy foods. Speak to your doctor regarding the amount you can eat. ",
+      "May boost brain health": "Eating berry fruits like blackberries may improve brain health and help prevent memory loss caused by aging, according to a review of research in the Journal of Agricultural and Food Chemistry.\nThe review concluded that antioxidants in berry fruits help fight free radicals and alter how brain neurons communicate. This may help reduce brain inflammation, which can lead to cognitive and motor issues common with aging.",
+      "Helps support oral health": "According to a 2013 studyTrusted Source, you may want to add blackberries to your daily dental regimen. The study found blackberry extract has antibacterial and anti-inflammatory abilities against some types of bacteria that cause oral disease.\nResearchers caution more study is needed, but suggest blackberry extract may help prevent and control gum disease and cavities."
+    },
+    "The bottom line": "Berries taste great, are highly nutritious, and provide many health benefits, including for your heart and skin.\nBy including them in your diet on a regular basis, you can improve your overall health in a very enjoyable way."
+  },
+
+  {
+    "genus": "Fragaria",
+    "name": "Blueberry",
+    "id": 33,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "nutritions": {
+      "Fiber": "4 grams",
+      "Vitamin C": "24% of the RDI",
+      "Vitamin K": "36% of the RDI",
+      "Manganese": "25% of the RDI"
+    },
+    "bg_img": "/images/blueberry/banner.jpg",
+    "images": [
+      "/images/blueberry/Blueberry-1.jpeg",
+      "/images/blueberry/Blueberry-2.jpeg",
+      "/images/blueberry/Blueberry-3.jpg",
+      "/images/blueberry/Blueberry-4.jpg"
+    ],
+    "description": "Blueberries are a very popular, tasty fruit native to North America but grown commercially across the Americas and Europe.\nThey’re low in calories and incredibly healthy, potentially regulating blood sugar levels and aiding heart and brain health.\nOften marketed as a superfood, blueberries are an excellent source of several vitamins, beneficial plant compounds, and antioxidants.",
+    "summary": [
+      "Blueberries are small, round, purple or blue berries belonging to the heather family. Highbush and lowbush blueberries are the two most common varieties.",
+      "Blueberries are low in calories and fat. They’re mainly made up of carbs and water but also contain a decent amount of fiber.",
+      "Blueberries are a good source of manganese and vitamins C and K1. They also provide small amounts of copper, as well as vitamins E and B6.",
+      "Blueberries are rich in beneficial plant compounds and antioxidants — especially anthocyanins — which may account for many of their health benefits.",
+      "Blueberries may decrease your risk of heart disease, boost brain health, lower blood sugar levels, and improve insulin sensitivity.",
+      "Blueberries are well tolerated when eaten in moderation, and allergy is very rare."
+    ],
+    "Health benefits": {
+      "Heart Health": "Heart disease is the leading cause of death worldwide.\nStudies note a relationship between berries — or flavonoid-rich foods — and improved heart health.\nSome research suggests that blueberries may have significant health benefits for people with high blood pressure, a major risk factor for heart disease.\nThese berries may also inhibit the oxidation of LDL (bad) cholesterol — a critical step in the heart disease process.\nAn observational study in 93,600 nurses found that a high intake of anthocyanins was linked to a 32% lower risk of heart attacks.",
+      "Brain Health": "As the number of people older than 65 increases worldwide, so will age-related conditions and diseases.\nInterestingly, a higher intake of flavonoid-rich foods like blueberries has been associated with better brain function .\nEating blueberries may prevent oxidative stress — which plays an important role in the aging process.\nThese berries may also improve brain function directly. In one 12-week study, drinking blueberry juice daily improved memory in 9 older adults with early memory decline.\nAnother, six-year study in older adults found that blueberries and strawberries were linked to delays in brain aging by up to two and a half years (28Trusted Source).",
+      "Blood Sugar Control": "People with diabetes are sensitive to rapid changes in blood sugar and need to be cautious when they eat foods rich in carbs.\nBlueberries contain moderate amounts of sugar — or 15 grams per cup (148 grams).\nHowever, they don’t have adverse effects on blood sugar levels, which may be due to their high content of bioactive compounds.\nTest-tube studies suggest that the anthocyanins in blueberries can have beneficial effects on blood sugar control.\nHuman studies have shown promising results as well.\nOne six-week study found that two blueberry smoothies daily helped improve insulin sensitivity in obese people who were at a high risk of developing diabetes.\nBlueberries may also affect blood sugar levels directly after a high-carb meal by blocking certain digestive enzymes and reducing blood sugar spikes."
+    },
+    "The bottom line": "Blueberries are a popular, delicious fruit.\nThey’re a good source of vitamin K1, vitamin C, manganese, and several other beneficial plant compounds like anthocyanins.\nEating blueberries on a regular basis may prevent heart disease, improve brain health, and help moderate blood sugar levels."
+  },
+
+  {
+    "genus": "Prunus",
+    "name": "Cherry",
+    "id": 9,
+    "family": "Rosaceae",
+    "order": "None",
+    "nutritions": {
+      "Calories": 97,
+      "Protein": "2 grams",
+      "Carbs": "25 grams",
+      "Fiber": "3 grams",
+      "Vitamin C": "18% of the Daily Value (DV)",
+      "Potassium": "10% of the DV",
+      "Copper": "5% of the DV",
+      "Manganese": "5% of the DV"
+    },
+    "bg_img": "/images/cherry/banner.jpg",
+    "images": [
+      "/images/cherry/Cherry-1.jpg",
+      "/images/cherry/Cherry-2.jpg",
+      "/images/cherry/Cherry-3.jpg",
+      "/images/cherry/Cherry-4.jpg"
+    ],
+    "description": "A cherry is a fruit that grows on a tree or a bush. It belongs to the genus Prunus. It is red in color, with a seed in the middle. It tastes slightly sour, and is often used to flavour cakes and ice cream, or is baked in a pie or cobbler. Cherries are also a good source of Vitamin B.\nIn Japan, Yamagata is top producer of cherries. ",
+    "summary": [
+      "Cherries are a good source of vitamin C, potassium, fiber, and other nutrients that your body needs to function optimally.",
+      "All cherries are high in antioxidants and anti-inflammatory compounds, which may reduce chronic diseaserisk and promote overall health.",
+      "Consuming cherries,especially tart cherry products like juice and powder, may improve athletic performance and reduce exercise-induced muscle damage and soreness.",
+      "Cherries are packed with potassium and polyphenol antioxidants, which have powerful heart-protective properties.",
+      "Cherries contain anti-inflammatory compounds and melatonin, which may help improve sleep quality in some people.",
+      "Cherries can be used in many ways in both sweet and savory recipes."
+    ],
+    "Health benefits": {
+      "Benefits for inflammation": "Inflammation is part of the body’s natural response to illness or injury. In the short term, it can be helpful. However, long-term inflammation is involved in many chronic conditions.\nAlthough a diet that is generally high in fruits, vegetables, and fiber can help lower inflammation, cherries may be particularly beneficial as part of an anti-inflammatory diet.\nAccording to a 2018 reviewTrusted Source, 11 out of 16 human studies into cherries and inflammation showed that they decreased inflammation. This applied to both tart and sweet varieties of cherry, and it included cherry fruits, juices, and concentrates.",
+      "Benefits for gout": "Gout causes sudden and severe joint pain. This is triggered by high levels of uric acid in the blood. One 2018 reviewTrusted Source stated that the consumption of cherries could help a person maintain moderate levels of uric acid in the body.\nThe review discussed a 2012 studyTrusted Source that found that taking cherry concentrate or eating cherries led to a 35% reduction in gout episodes over a 2-day period. This effect remained the same regardless of sex, body weight, purine and alcohol intake, diuretic use, and anti-gout medication use.\nThe authors of the 2018 review stated that although more long-term studies are necessary, these findings are promising.",
+      "Benefits for sleep": "According to a 2013 studyTrusted Source, cherries are a rich, natural source of melatonin, which is a neurotransmitter that influences sleep and mood. Melatonin can be useful for those who have insomnia, as it is the chemical that induces sleepiness.\nAnother 2013 studyTrusted Source involved participants aged between 20 and 85 years. Among other outcomes, the researchers studied the effects on sleep of those who ate a cherry-based product and those who had a placebo.\nAmong the participants who consumed the cherry-based product, sleep and nocturnal rest significantly improved. Older participants experienced an even more marked improvement."
+    },
+    "The bottom line": "Cherries are highly nutritious and offer a host of health benefits. Not only do they contain an array of powerful plant compounds that can help reduce inflammation, but eating them may improve sleep, boost heart health, and speed recovery after exercise.What’s more, both sweet and tart varieties are absolutely delicious and can be used in diverse recipes."
+  },
+
+  {
+    "genus": "Durio",
+    "name": "Durian",
+    "id": 60,
+    "family": "Malvaceae",
+    "order": "Malvales",
+    "nutritions": {
+      "Calories": "357",
+      "Fat": "13 grams",
+      "Carbs": "66 grams",
+      "Fiber": "9 grams",
+      "Protein": "4 grams",
+      "Vitamin C": "80% of the Daily Value (DV)",
+      "Thiamine": "61% of the DV",
+      "Manganese": "39% of the DV",
+      "Vitamin B6": "38% of the DV",
+      "Potassium": "30% of the DV",
+      "Riboflavin": "29% of the DV",
+      "Copper": "25% of the DV",
+      "Folate": "22% of the DV",
+      "Magnesium": "18% of the DV",
+      "Niacin": "13% of the DV"
+    },
+    "bg_img": "/images/durian/banner.jpg",
+    "images": [
+      "/images/durian/durian-2.jpg",
+      "/images/durian/durian-1.jpg",
+      "/images/durian/durian-3.jpg",
+      "/images/durian/durian-4.jpg"
+    ],
+    "description": "Durian is a tropical fruit distinguished by its large size and spiky, hard outer shell.\nIt has a pungent smell, custard-like flesh with large seeds.\nThere are several varieties, but the most common one is Durio zibethinus.\nThe fruit’s flesh can range in color. It’s most commonly yellow or white, but can also be red or green.\nDurian grows in tropical regions around the world, particularly in the Southeast Asian countries of Malaysia, Indonesia, and Thailand.\nThe fruit can grow up to 1 foot (30 cm) long and 6 inches (15 cm) wide. A typical durian fruit has about 2 cups (486 grams) of edible pulp.",
+    "summary": [
+      "Durian is a tropical fruit that grows in countries in Southeast Asia. It has a spiky outer shell and a pungent flesh that can vary in color.",
+      "Durian is an ingredient in both sweet and savory Southeast Asian dishes. It’s also used in traditional medicine.",
+      "Durian is a very nutritious fruit that’s rich in fiber, B vitamins, vitamin C, and various healthy plant compounds.",
+      "Durian contains nutrients and plant compounds that may offer several health benefits, including for cancer, heart health, infections, and blood sugar control. However, no human studies have been conducted.",
+      "Durian contains compounds that may prevent alcohol from being fully metabolized, causing symptoms like nausea and vomiting.",
+      "You can buy fresh or frozen durian and eat it directly or combined with other ingredients in recipes."
+    ],
+    "Health benefits": {
+      "Reduces cancer risk": "Its antioxidants may neutralize cancer-promoting free radicals. In one test-tube study, durian extract prevented a strain of breast cancer cells from spreading.",
+      "Prevents heart disease": "Several compounds in durian may help reduce cholesterol levels and your risk of atherosclerosis, or the hardening of your arteries.",
+      "Fights infection": "The rind contains compounds that have antibacterial and anti-yeast properties.",
+      "Lowers blood sugar": "Durian has a lower glycemic index (GI) than many other tropical fruits, meaning it may spike blood sugar levels less. "
+    },
+    "The bottom line": "Durian fruit is incredibly high in healthy nutrients, including B vitamins, vitamin C, minerals, plant compounds, healthy fats, and fiber.However, the smell and taste may not be for everyone."
+  },
+  {
+    "genus": "Ficus",
+    "name": "Fig",
+    "id": 68,
+    "family": "Moraceae",
+    "order": "Rosales",
+    "nutritions": {
+      "Calories": "30",
+      "Protein": "0 grams",
+      "Fat": "0 grams",
+      "Carbs": "8 grams",
+      "Fiber": "1 gram",
+      "Copper": "3% of the Daily Value (DV)",
+      "Magnesium": "2% of the DV",
+      "Potassium": "2% of the DV",
+      "Riboflavin": "2% of the DV",
+      "Thiamine": "2% of the DV",
+      "Vitamin B6": "3% of the DV",
+      "Vitamin K": "2% of the DV"
+    },
+    "bg_img": "/images/fig/banner.webp",
+    "images": [
+      "/images/fig/fig-1.jpg",
+      "/images/fig/fig-2.jpg",
+      "/images/fig/fig-3.jpg",
+      "/images/fig/fig-4.jpg"
+    ],
+
+    "description": "Figs are a unique fruit resembling a teardrop. They’re about the size of your thumb, filled with hundreds of tiny seeds, and have an edible purple or green peel. The flesh of the fruit is pink and has a mild, sweet taste. The scientific name for the fig is Ficus carica.\nFigs — and their leaves — are packed with nutrients and offer a variety of potential health benefits. They may promote healthy digestion, decrease your risk of heart disease, and help you manage your blood sugar levels.\nThis article reviews figs, including their nutrition, benefits, and downsides, as well as how to add them to your diet.",
+    "summary": [
+      "Fresh figs are low in calories and contain a variety of vitamins and minerals. However, dried figs are high in sugar and calories.",
+      "Figs have a variety of potential health benefits. They may improve digestion and decrease constipation, help manage blood fat and blood sugar levels, and kill cancer cells. However, more research in humans is needed.",
+      "Figs may cause digestive upset or diarrhea due to their anti-constipation effects. They may also interfere with blood thinners, and some people may be allergic to them.",
+      "To reap the benefits of figs, you can buy fresh figs, dried figs, fig leaves, or fig leaf tea to add to your diet. Be sure to only use dried figs in moderation due to their sugar content."
+    ],
+    "Health benefits": {
+      "Promote digestive health": "Figs have long been used as a home remedy or an alternative treatment for digestive problems like constipation\nThey contain fiber, which may help promote digestive health by softening and adding bulk to stools, decreasing constipation, and serving as a prebiotic — or food source for the healthy bacteria populating your gut.\n In animal studies, fig fruit extract or paste helped speed the movement of food through the digestive tract, reducing constipation and improving the symptoms of digestive disorders like ulcerative colitis",
+      "May improve vascular and heart health": "Figs may improve blood pressure and blood fat levels, which can help improve your vascular health and decrease your risk of heart disease.\nOne study found that fig extract decreased blood pressure in rats with normal blood pressure, as well as those with elevated levels.\nAnimal studies have also shown improvements in total cholesterol, HDL (good) cholesterol, and triglyceride levels when supplementing with fig leaf extract",
+      "May help manage blood sugar levels": "One dated study from 1998 in 10 people with type 1 diabetes found that having fig leaf tea with breakfast may have decreased their insulin needs. In the month they received fig leaf tea, their insulin doses decreased by about 12%.\nHowever, fig fruits — especially dried figs — are high in sugar and may increase blood sugar levels in the short term. If you have trouble managing your blood sugar levels, you should limit your intake of dried figs."
+    },
+    "The bottom line": "Figs have a variety of potential health benefits. Along with the fruit, fig leaves and fig leaf tea appear to be beneficial for health. Dried figs in particular may help relieve constipation.\nHowever, figs may interfere with blood thinning medications due to their vitamin K content, and dried figs should be eaten in moderation due to their high sugar content.\nThat said, overall, fresh figs, fig leaves, and fig leaf tea make great additions to a healthy diet."
+  },
+  {
+    "genus": "Ribes",
+    "name": "Gooseberry",
+    "id": 69,
+    "family": "Grossulariaceae",
+    "order": "Saxifragales",
+    "nutritions": {
+      "Protein": "1 gram",
+      "Fat": "less than 1 gram",
+      "Carbs": "15 grams",
+      "Fiber": "7 grams",
+      "Vitamin C": "46% of the Daily Value (DV)",
+      "Vitamin B5": "9% of the DV",
+      "Vitamin B6": "7% of the DV",
+      "Copper": "12% of the DV",
+      "Manganese": "9% of the DV",
+      "Potassium": "6% of the DV"
+    },
+    "bg_img": "/images/gooseberry/banner.jpg",
+    "images": [
+      "/images/gooseberry/gooseberry-1.jpg",
+      "/images/gooseberry/gooseberry-2.jpg",
+      "/images/gooseberry/gooseberry-3.jpg",
+      "/images/gooseberry/gooseberry-4.jpg"
+    ],
+    "description": "Gooseberries are small, nutritious fruits that offer many health benefits.\nThe European and American varieties — Ribes uva-crispa and Ribes hirtellum, respectively — are the most common types. Both are closely related to black, red, and white currants.\nThe fruits of the gooseberry bush are small, weighing around 0.1–0.2 ounces (3–6 grams) each. They vary in color and can be green, yellow-white, pink, red, or dark purple. Their flavor ranges from tart to sweet",
+    "summary": [
+      "Gooseberries are low in calories and fat but rich in dietary fiber, copper, manganese, potassium, and vitamins C, B5, and B6.",
+      "Gooseberries are low in calories and high in fiber, which helps protect against obesity, heart disease, type 2 diabetes, and some types of cancer.",
+      "Gooseberries are rich in antioxidants, such as phytonutrients, and vitamins E and C, which may help protect your brain and fight aging, type 2 diabetes, cancer, and heart disease.",
+      "Gooseberries are high in fiber and chlorogenic acid, which may help slow or prevent the absorption of sugar into your bloodstream, though more research is required."
+    ],
+    "Health benefits": {
+      "High in fiber and low in calories": "Gooseberries are high in fiber yet low in energy, meaning you can eat a decent portion without consuming too many calories.\nIn fact, eating 1 cup (150 grams) of gooseberries contributes just over 3% of the average person’s total daily calorie needs, making them a nutritious, low-calorie snack.\nIn addition, research shows that eating berries may aid weight loss and help you eat fewer calories overall.",
+      "Rich in antioxidants": "Antioxidants are compounds that help fight the effects of free radicals. These are reactive molecules that cause cellular damage and lead to a process known as oxidative stress. Oxidative stress is associated with many diseases and premature aging.\nDiets rich in antioxidants are thought to reduce your risk of certain types of cancer, heart disease, type 2 diabetes, aging, and protect your brain from degenerative disease.\nGooseberries are an excellent source of antioxidants, including vitamin C, small amounts of vitamin E, and phytonutrients",
+      "May help control blood sugar": "High blood sugar levels are linked to type 2 diabetes, heart disease, stroke, dementia, and many other illnesses.\nGooseberries have several properties that may aid blood sugar control.\nFirst, they’re high in fiber, which slows the absorption of sugar into your bloodstream, preventing spikes in blood sugar levels.\nFurthermore, test-tube studies reveal that gooseberry extract is an alpha-glucosidase inhibitor. This means it binds to special enzymes in your small intestine, preventing them from moving sugar from your gut into your bloodstream "
+    },
+    "The bottom line": "Gooseberries are nutritious, low-calorie fruits that are rich in vitamins, minerals, and antioxidants.\nThough research on gooseberries specifically is limited, many of the nutrients in these berries have been linked to significant health benefits.\nThese include lower blood sugar, cholesterol, and blood pressure levels, as well as a reduced risk of cancer, diabetes, heart disease, and age-related illnesses of the brain.\nGooseberries are a wonderful, healthy fruit to include in your diet as a snack or flavorful addition to meals."
+  }
+]

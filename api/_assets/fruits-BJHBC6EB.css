@@ -1,0 +1,13 @@
+.fruits_grid_container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(03rem 1fr));
+  gap: 1rem;
+}
+
+.fruits_items {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-row-gap: 3rem;
+  background: #fff;
+  border-radius: 0.75rem;
+}

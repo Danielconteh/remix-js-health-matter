@@ -1,0 +1,15 @@
+.fruits_header::after {
+  content: '';
+}
+
+.fruits_header::before {
+  content: '';
+  display: inline-block;
+  height: 2px;
+  width: 40%;
+  background: red;
+  position: absolute;
+  left: 10rem;
+
+  top: 50%;
+}

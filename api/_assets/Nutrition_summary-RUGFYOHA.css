@@ -1,0 +1,6 @@
+.Nutrition_summary_container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 1rem 2rem;
+  gap: 1.5rem;
+}

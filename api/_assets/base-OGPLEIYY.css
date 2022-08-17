@@ -1,0 +1,12 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: red;
+  margin: 0 auto;
+  max-width: 112rem;
+  overflow-x: hidden;
+  /* padding: 0 2rem; */
+  width: 100%;
+}

@@ -1,0 +1,18 @@
+html {
+  font-size: 62.5%;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 112rem;
+  overflow-x: hidden;
+  /* padding: 0 2rem; */
+  width: 100%;
+  /* background: #f1f1f1; */
+}

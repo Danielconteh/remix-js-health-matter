@@ -1,0 +1,11 @@
+.fruits_header::after {
+  content: '';
+}
+
+.fruits_header::before {
+  content: '';
+  display: inline-block;
+  height: 2px;
+  width: 50px;
+  background: red;
+}

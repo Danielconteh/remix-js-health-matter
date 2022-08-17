@@ -1,0 +1,5 @@
+.fruits_grid_container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem 0.7rem;
+}

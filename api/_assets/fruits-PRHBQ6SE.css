@@ -1,0 +1,7 @@
+.fruits_header::after {
+  content: '';
+}
+
+.fruits_header::before {
+  content: '';
+}

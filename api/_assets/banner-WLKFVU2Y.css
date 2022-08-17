@@ -1,0 +1,15 @@
+.banner {
+  height: 70vh;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url('/banner.jpg');
+  /* /banner.jpg; */
+}
+
+.banner_img {
+  /* position: absolute; */
+  /* object-fit: cover;
+  width: 100%;
+  height: 100%;
+  background-position: center; */
+}
