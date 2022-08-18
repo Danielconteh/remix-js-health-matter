@@ -111,16 +111,22 @@ const Single_Nutrition_Detail = ({
           ) : item === '2' ? (
             <div className=''>
               <div className='grid grid-cols-2 grid-rows-[25rem] lg:grid-rows-[30rem] gap-1 items-center w-full'>
-                {value?.images?.map(async (el, i) => {
+                {value?.images?.map((el, i) => {
                   return (
+                    // <img
+                    //   className='object-cover block  w-full'
+                    //   key={i}
+                    //   src={el}
+                    //   alt={el}
+                    // />
                     <Image
                       key={i}
                       loaderUrl='/api/image'
-                      className='w-full h-full object-fill'
+                      className='rounded-t-md w-full h-full object-fill'
                       src={el}
                       options={{
                         fit: 'fill',
-                        position: 'center top',
+                        position: 'center',
                       }}
                       responsive={[]}
                       dprVariants={[1, 3]}
