@@ -1,4 +1,5 @@
 import slugify from 'react-slugify'
+import Image from 'remix-image'
 
 import { Link } from '@remix-run/react'
 import type { LoaderData } from '~/routes'
@@ -35,11 +36,22 @@ const Fruits = (props: { data: LoaderData }) => {
                   key={i}
                   className='fruits_items mt-6 shadow-lg text-xl text-gray-500'
                 >
-                  <div className='col-span-full text-center h-[25rem]'>
-                    <img
-                      className='rounded-t-md w-full h-full'
+                  <div
+                    className='col-span-full text-center h-[25rem]'
+                    style={{
+                      overflow: 'hidden',
+                    }}
+                  >
+                    <Image
+                      loaderUrl='/api/image'
+                      className='rounded-t-md w-full h-full object-fill'
                       src={el?.bg_img}
-                      alt={el?.name}
+                      options={{
+                        fit: 'fill',
+                        position: 'center',
+                      }}
+                      responsive={[]}
+                      dprVariants={[1, 3]}
                     />
                   </div>
                   <div className='col-span-full text-center text-2xl uppercase tracking-widest bg-slate-500 text-slate-200 w-1/2 mx-auto p-4 translate-y-[-2rem] rounded-md'>
