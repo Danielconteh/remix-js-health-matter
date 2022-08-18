@@ -1,6 +1,5 @@
 /* eslint-disable array-callback-return */
 import type { SingleLoaderData } from '~/routes/$slug'
-import Image from 'remix-image'
 
 interface arrgs {
   heading1: string
@@ -113,23 +112,11 @@ const Single_Nutrition_Detail = ({
               <div className='grid grid-cols-2 grid-rows-[25rem] lg:grid-rows-[30rem] gap-1 items-center w-full'>
                 {value?.images?.map((el, i) => {
                   return (
-                    // <img
-                    //   className='object-cover block  w-full'
-                    //   key={i}
-                    //   src={el}
-                    //   alt={el}
-                    // />
-                    <Image
+                    <img
+                      className='object-cover block  w-full'
                       key={i}
-                      loaderUrl='/api/image'
-                      className='rounded-t-md w-full h-full object-fill'
                       src={el}
-                      options={{
-                        fit: 'fill',
-                        position: 'center',
-                      }}
-                      responsive={[]}
-                      dprVariants={[1, 3]}
+                      alt={el}
                     />
                   )
                 })}
